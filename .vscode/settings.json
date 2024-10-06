@@ -1,0 +1,6 @@
+{
+    "workbench.editor.pinnedTabsOnSeparateRow": false,
+    "workbench.editor.scrollToSwitchTabs": false,
+    "workbench.editor.showTabs": "multiple",
+    "window.density.editorTabHeight": "compact"
+}
